@@ -2,4 +2,4 @@
 
 ##This is *sample* **MarkDown** file. 
 
-![image of shoebill stork](shoebill.jpg) [link to markdownguide] (https://markdowngu1ide.org)
+![image of shoebill stork](shoebill.jpg) [link to markdownguide] (https://markdown1gu1ide.org)
